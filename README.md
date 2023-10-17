@@ -37,6 +37,62 @@
       text-align: center;
       margin: 20px;
     }
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: radial-gradient(circle at 10.2% 22.1%, rgba(11, 218, 81, 1) 0%, rgba(0, 191, 255, 1) 90%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .buttons {
+    min-width: 700px;
+  display: flex;
+  justify-content: space-around;
+}
+  
+  .buttons a {
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: #314652;
+    color: #f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    transition: all 0.4s ease-in-out;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    margin-left: 20px;
+  }
+  
+  .text {
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center; /* Alinea el texto al centro */
+    margin-top: 20px; /* Agrega margen superior para separar el texto de los íconos */
+  }
   </style>
 </head>
 <body>
