@@ -98,11 +98,11 @@
 <body>
   <div class="content">
     <div class="buttons">
-      <a href="https://www.facebook.com/xavier.carvachemora" class="fa fa-facebook"></a>
-      <a href="https://twitter.com/XavierCarvache1" class="fa fa-twitter"></a>
-      <a href="https://www.youtube.com/channel/UCv4MRIL9Wdvd9TLgnKC3dsQ" class="fa fa-youtube"></a>
-      <a href="https://www.twitch.tv/xavier47635" class="fa fa-twitch"></a>
-      <a href="https://www.linkedin.com/in/xavier-carvache-44b429241/" class="fa fa-linkedin"></a>
+      <a href="https://www.facebook.com/xavier.carvachemora" class="fa fa-facebook" target="_blank"></a></a>
+      <a href="https://twitter.com/XavierCarvache1" class="fa fa-twitter"  target="_blank"></a>
+      <a href="https://www.youtube.com/channel/UCv4MRIL9Wdvd9TLgnKC3dsQ" class="fa fa-youtube"  target="_blank"></a>
+      <a href="https://www.twitch.tv/xavier47635" class="fa fa-twitch"  target="_blank"  target="_blank"></a>
+      <a href="https://www.linkedin.com/in/xavier-carvache-44b429241/" class="fa fa-linkedin"  target="_blank"></a>
     </div>
 
     <img src="Screenshot_8.png" alt="">
